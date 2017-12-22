@@ -172,6 +172,10 @@ header {
   font: 1em "Trebuchet MS", Arial, sans-sseriff;
 }
 
+#navbar nav a:selected {
+  background: #333;
+  color: white;
+}
 /*////////// LOGO //////////*/
 
 
